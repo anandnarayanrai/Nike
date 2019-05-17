@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nike</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">
+        android.support.design.widget.AppBarLayout$ScrollingViewBehavior
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
